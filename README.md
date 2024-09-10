@@ -1,2 +1,2 @@
 # ParticleSwarmOptimization
-R Script for reproducibility purposed of the PSOPR algorithm
+R Script codes for reproducibility purpose of the PSOPR algorithm
